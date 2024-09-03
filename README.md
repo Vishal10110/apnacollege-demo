@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Project
 <br>
-Author - Vishal Upadhyay
+Author - Vishal ji Upadhyay
